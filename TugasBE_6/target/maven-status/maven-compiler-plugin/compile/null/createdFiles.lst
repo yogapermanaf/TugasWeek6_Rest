@@ -1,0 +1,4 @@
+com\person\rest\PersonRepository.class
+com\person\rest\PersonResource.class
+com\person\rest\Person.class
+META-INF\panache-archive.marker
